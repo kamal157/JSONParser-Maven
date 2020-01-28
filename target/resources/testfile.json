@@ -1,0 +1,23 @@
+{
+  "key1" : "string",
+  "key2" : 123,
+  "key3" : 12e-2,
+  "key4" : false,
+  "key5" : {
+           	"key1" : "json object"
+  			},
+  
+  "key6" : [
+	  			{
+	  			  "i_key1" : "json array",
+				  "i_key2" : 123,
+				  "i_key3" : -2
+	  			},
+	  			{
+	  			  "j_key1" : "json array",
+				  "j_key2" : 123,
+				  "j_key3" : -2
+	  			}
+  			]	  
+  
+}
