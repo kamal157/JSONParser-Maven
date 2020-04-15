@@ -1,7 +1,7 @@
 # JSONParser-Maven
 JSON Parser - antlr3.5.2
 
-This is a simple ANTLR project , the motive is to parse JSON File/Text and print in the well defined ASTree format with custom nodes
+This is a simple ANTLR project , the motive is to parse JSON File/Text and print in the well defined ASTree format with custom Tree format
 
 Procedure to test :
 
